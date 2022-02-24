@@ -5,7 +5,7 @@
 
 - 👋 I’m @diegocarloni 
 - 👀 I'm interested in learning. 
-- 🔭 I’m currently working at Leega Consultoria as a Data Engineer Trainee.
+- 🔭 I’m currently working at Leega Consultoria as a Data Engineer.
 - 🎓 I’m currently learning C, vba, Java, SQL, Shellscript, TypeScript and HTML at College. 
 - 👨‍🔧 I work with Impala SQL (HUE) and AWS Cloud.
 - 💻 I want to Python, PySpark, Html, CSS and Javascript
