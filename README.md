@@ -12,8 +12,6 @@
 - 😄 Pronouns: He/him
 - 4/6 Analysis and systems development - Fatec Ipiranga
 
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegocarloni)](https://github.com/diegocarloni/github-readme-stats)--->
-
 <!---
 diegocarloni/diegocarloni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -24,8 +22,6 @@ You can click the Preview link to take a look at your changes.
   <img height="165em"   align="center" src="https://github-readme-stats.vercel.app/api?username=diegocarloni&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="165em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocarloni&layout=compact&langs_count=7&theme=react" />
 
-    
- <!--- <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613"> --->
 </div>
  <br>
 <div  align="center"> 
@@ -40,25 +36,22 @@ You can click the Preview link to take a look at your changes.
   <br/>
   <br>
   <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <!---<img align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">--->
+  <img align="center" alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <br/>
   
 </div>
   
 ##
-  <!---<a href="https://www.instagram.com/caldasflamejantes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> --->
-  <br><a href="https://www.linkedin.com/in/diego-mendes-carloni/" target="new"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="new"></a> 
- 
----
   
-![Snake animation](https://github.com/diegocarloni/diegocarloni/blob/output/github-contribution-grid-snake.svg)
+ <br><a href="https://www.linkedin.com/in/diego-mendes-carloni/" target="new"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="new"></a><br> 
+ 
+##
 
-<!---
----
+<!--- Em desenvolvimento
 
-### Onde me encontrar? :mag: <a href="https://dottamp.github.io/" target="_blank"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=informational&up_message=find%20me%20here&url=https%3A%2F%2Fdottamp.github.io%2F" target="_blank"></a> --->
+### Onde me encontrar? :mag: <a href="https://diegocarloni.github.io/" target="_blank"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=informational&up_message=find%20me%20here&url=https%3A%2F%2Fdiegocarloni.github.io%2F" target="_blank"></a> 
 
----
+--->
   
 </div>
  
