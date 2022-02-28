@@ -47,6 +47,10 @@ You can click the Preview link to take a look at your changes.
  
 ##
 
+  ![Snake animation](https://github.com/diegocarloni/diegocarloni/blob/output/github-contribution-grid-snake.svg) 
+ 
+##
+
 <!--- Em desenvolvimento
 
 ### Onde me encontrar? :mag: <a href="https://diegocarloni.github.io/" target="_blank"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=informational&up_message=find%20me%20here&url=https%3A%2F%2Fdiegocarloni.github.io%2F" target="_blank"></a> 
