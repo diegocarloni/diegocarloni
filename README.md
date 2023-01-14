@@ -8,9 +8,9 @@
 - 🔭 I’m currently working at Leega Consultoria as a Data Engineer.
 - 🎓 I’m currently learning C, vba, Java, SQL, Shellscript, TypeScript and HTML at College. 
 - 👨‍🔧 I work with Impala SQL (HUE) and AWS Cloud.
-- 💻 I want to Python, PySpark, Html, CSS and Javascript
+- 💻 I want to Python, PySpark, Java, React, html, CSS and Javascript
 - 😄 Pronouns: He/him
-- 5/6 Analysis and systems development - Fatec Ipiranga
+- 6/6 Analysis and systems development - Fatec Ipiranga
 
 <!---
 diegocarloni/diegocarloni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
