@@ -10,7 +10,7 @@
 - 👨‍🔧 I work with Impala SQL (HUE) and AWS Cloud.
 - 💻 I want to Python, PySpark, Java, React, html, CSS and Javascript
 - 😄 Pronouns: He/him
-- 6/6 Analysis and systems development - Fatec Ipiranga
+-  Analysis and systems development - Fatec Ipiranga
 
 <!---
 diegocarloni/diegocarloni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
