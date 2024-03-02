@@ -48,6 +48,8 @@ You can click the Preview link to take a look at your changes.
 ##
 
   ![Snake animation](https://github.com/diegocarloni/diegocarloni/blob/output/github-contribution-grid-snake.svg) 
+
+  ![](https://raw.githubusercontent.com/diegocarloni/diegocarloni/output/github-contribution-grid-snake.svg)
  
 ##
 
